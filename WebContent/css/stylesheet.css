@@ -1,0 +1,48 @@
+body{
+	background-image:
+	nackground-repeat: repaeat;
+	left:0px;
+	top:0px;
+	right:0px;
+	bottom:0px;
+	height:100%;
+	margin:0px;	
+}
+#topBar{
+	height:130px;	
+	width:100%;
+	background-color:#0000FF;
+}
+
+#sidecontentpanel{
+	width:200px;
+	height:100%;
+	float:left;
+	position: absolute;
+	background-color:#00FF00;
+	
+}
+#mainpanel{
+	position: absolute;
+	width:100%;
+	height:100%;
+	top:130px;
+	
+	
+}
+#contentpanel{
+	background-color:#0A9999;
+	left:200px;
+	width: 80%;
+	
+}
+#basket{
+	float:right;
+	width:20%;
+	left:80%;
+	background-color:#FFFF00;
+	top:0px;
+	
+	
+	
+}
